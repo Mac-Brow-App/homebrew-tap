@@ -1,4 +1,6 @@
-# Homebrew Tap for Brow
+# Homebrew Tap for [Brow](https://brow-app.com)
+
+**[https://brow-app.com](https://brow-app.com)** — Free all-in-one Mac productivity app. Replaces your launcher, clipboard manager, window manager, screenshot tool, and 20+ more utilities.
 
 ## Install
 
