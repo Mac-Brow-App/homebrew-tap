@@ -7,7 +7,7 @@ cask "brow" do
   desc "All-in-one Mac productivity app with launcher, clipboard, window manager, and more"
   homepage "https://brow-app.com"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Brow.app"
 
